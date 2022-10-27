@@ -1,1 +1,6 @@
 working with rainbow files
+Red
+yellow 
+Green
+Orange
+Blue
